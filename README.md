@@ -15,7 +15,7 @@ Define the decision variables.
 ### Step 4:
 Set the constraints or set of rules.
 ### Step 5: 
-Solve the Sudoku puzzle using specific functions like elimination and only choice and further to solve complex problems we has to define reduced puzzles .
+Solve the Sudoku puzzle using specific functions like elimination and only choice and further to solve complex problems we hava to define reduced puzzles .
 ### Step 6: 
 Check if an optimal result is found.
 
@@ -139,11 +139,11 @@ else:
 #
 #
 ## Output:
-### Label of each boxes.
+### Labelling each box.
 ![output1](boxlabel.png)
 ### Possible values in empty boxes.
 ![output2](possiblevalue.png)
-### Possible values represent in grid.
+### Possible values represent in the grid.
 ![output3](gridpositions.png)
 ### Solved puzzle.
 ![output4](solved.png)
